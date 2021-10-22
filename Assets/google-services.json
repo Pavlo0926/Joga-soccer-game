@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217111914011",
+    "firebase_url": "https://mobile-soccer-ccb65.firebaseio.com",
+    "project_id": "mobile-soccer-ccb65",
+    "storage_bucket": "mobile-soccer-ccb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217111914011:android:d729ecd98773b7d0",
+        "android_client_info": {
+          "package_name": "com.cflow.jogabonito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217111914011-6auqb7ut4egal1e167i0j10jfcs16iv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBADIaS0gMl1xmfao2oz2vjn-QGcAgaE1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217111914011-6auqb7ut4egal1e167i0j10jfcs16iv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

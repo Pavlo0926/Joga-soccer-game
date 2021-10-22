@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Seasion_leaderBoard
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 05c2aaa44abf0407ca5310631bb6f976, type: 3}
+    totalSpriteSurfaceArea: 358580
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e01186d1eac134825ac67f8eb24a3bfb, type: 3}
+  - {fileID: 21300000, guid: 409dd733cd79543f4b17f0e1ef4a7785, type: 3}
+  - {fileID: 21300000, guid: e4b1c2d361607414da0a59a82e30c245, type: 3}
+  - {fileID: 21300000, guid: 2c94c884007634b73a64aaec5d73e72b, type: 3}
+  - {fileID: 21300000, guid: 76a57205657f1473098ce0d93e2797de, type: 3}
+  - {fileID: 21300000, guid: 264ae7053a6914836991dfa9dd49ae8e, type: 3}
+  - {fileID: 21300000, guid: e6de04c5bd5224e92910d4ba0b0626c1, type: 3}
+  - {fileID: 21300000, guid: 8741cfb6d5a504842b9ccdf8528c278c, type: 3}
+  - {fileID: 21300000, guid: a8d68fc6cfaf34a089c854741d4d89b9, type: 3}
+  - {fileID: 21300000, guid: 7a4ef787bfc3e4fbc906b81d0a306779, type: 3}
+  - {fileID: 21300000, guid: b93dc0a9bfb1a45b2a1310cf36e32437, type: 3}
+  - {fileID: 21300000, guid: c0b497ac13681420db81071c0a70ae2e, type: 3}
+  - {fileID: 21300000, guid: 995779acd063d4ebc8469a061dc8dc76, type: 3}
+  - {fileID: 21300000, guid: 40d2a4ec5019145e590bd3cb71ee9c93, type: 3}
+  - {fileID: 21300000, guid: 3007e47da381d4ca68bc9fc6136e42fa, type: 3}
+  - {fileID: 21300000, guid: a0e9d28d075f84c539b557e4638c60eb, type: 3}
+  - {fileID: 21300000, guid: 4f5ce4ad8607e4fc8bb9d34c64d2a4fb, type: 3}
+  - {fileID: 21300000, guid: 08afb1cd57e834ef0ba2fc5d7565417b, type: 3}
+  - {fileID: 21300000, guid: e61f7b7e6e7eb42e0b5153a37b7995bb, type: 3}
+  - {fileID: 21300000, guid: 22579ddeef4434ab49c82718e10c5356, type: 3}
+  - {fileID: 21300000, guid: 5b9b121f18200429f95bad1e9e22f3cd, type: 3}
+  - {fileID: 21300000, guid: b4a3906f17700442fb9ae87c57fff0ac, type: 3}
+  - {fileID: 21300000, guid: fae8dccfa2f264997889305b8ac74b63, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 07
+  - 13
+  - 15_Active
+  - 11
+  - 07
+  - 04
+  - 02
+  - 02-Option Button
+  - 03
+  - 14_Normal
+  - 17
+  - 09
+  - 03
+  - 16
+  - 05
+  - 12
+  - 04
+  - 06
+  - 08
+  - 18
+  - 06_Active
+  - 10_Title strip
+  - 05_Normal
+  m_Tag: Seasion_leaderBoard
+  m_IsVariant: 0

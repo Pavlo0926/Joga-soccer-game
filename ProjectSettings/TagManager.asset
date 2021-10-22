@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Opponent
+  - Border
+  - mouseHelperBegin
+  - helperArrow
+  - ball
+  - PlayerBasketCenter
+  - Enemy
+  - mouseHelperEnd
+  - playerGoalTrigger
+  - opponentGoalTrigger
+  - opponentAI
+  - playerAI
+  - Player_2
+  - gatePost
+  - shootCircle
+  - orange
+  - corner
+  - bgobstacles
+  - midup
+  - middown
+  - purple
+  - MidBoth
+  - Instantline
+  - doublecir
+  - leftright
+  - downcir
+  - upcir
+  - coins
+  - stone
+  - timer
+  - strips
+  - blackelement
+  - multcolor
+  - tutorial
+  - rightdetect
+  - animPlayer
+  - firepoint
+  - magnet
+  - shield
+  - right
+  - Effect
+  - leftdetect
+  - green
+  - magnets
+  - masterball
+  - DownDetect
+  - bomb
+  - detectrightusepower
+  - weapon
+  - red
+  - rays
+  - pscore
+  - rocket
+  - bglight
+  - blue
+  - glowball
+  - detectleftusepower
+  - Blackfade
+  - container
+  - lasttxt
+  - bothdetect
+  - CheckCollid
+  - increaseValue
+  - DecreaseValue
+  - adjust
+  - dots
+  - TrajectoryDots
+  - Dot
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - IgnoreCollide
+  - Player
+  - Enemy
+  - mask
+  - 0
+  - Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: mask
+    uniqueID: 862013817
+    locked: 0

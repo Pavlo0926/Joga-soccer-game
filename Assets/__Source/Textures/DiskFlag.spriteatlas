@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DiskFlag
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 642a8d84db8967345bf914fa65b38fb8, type: 3}
+    totalSpriteSurfaceArea: 116729
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e99b8210bddc4cc4eae6d74d3a0842d7, type: 3}
+  - {fileID: 21300000, guid: 525778029250fb7478378d9b053cd0dc, type: 3}
+  - {fileID: 21300000, guid: ea2855326b01aa04baf7d8854c22cf27, type: 3}
+  - {fileID: 21300000, guid: 9bc74c326af36ed40b2a6881b86e43a7, type: 3}
+  - {fileID: 21300000, guid: cd410c9234b7c4f9aaefebf7526bcd04, type: 3}
+  - {fileID: 21300000, guid: 197f4b53ac22ae442a8a9ddfca6513e9, type: 3}
+  - {fileID: 21300000, guid: d43434838f90dbc459d7b6f83c364275, type: 3}
+  - {fileID: 21300000, guid: fdf2efc3e9b9415459d967f29ab3006f, type: 3}
+  - {fileID: 21300000, guid: 35bd27241aaa33947b9e54e845b2de7b, type: 3}
+  - {fileID: 21300000, guid: c1648467e999f9e43b8e49a3f336ccbf, type: 3}
+  - {fileID: 21300000, guid: 42cdde084064cfd4d9df13a281218ce7, type: 3}
+  - {fileID: 21300000, guid: da948848ee655a443bdb74579b9c38cd, type: 3}
+  - {fileID: 21300000, guid: 49d16b391f1d5cd42889f30c90c4fae4, type: 3}
+  - {fileID: 21300000, guid: b4501549485e18b4fbb79b5b66b2ebda, type: 3}
+  - {fileID: 21300000, guid: a947cc6939b91ff408bf29b144520608, type: 3}
+  - {fileID: 21300000, guid: e919d2e914020ad49a7cec74bf57f6b3, type: 3}
+  - {fileID: 21300000, guid: 7c5e2bdaf2a6d2f4aa126967f215d6bd, type: 3}
+  - {fileID: 21300000, guid: 9d6ef79b32f55854e92b9f2af3b4650b, type: 3}
+  - {fileID: 21300000, guid: 0fc42d2c507f15844bbfc3d3ecf376c9, type: 3}
+  - {fileID: 21300000, guid: 0ae2be7d4dae0dd4f87837140d0e332b, type: 3}
+  - {fileID: 21300000, guid: 791d0e0ea2f44da489036e88aecc7718, type: 3}
+  - {fileID: 21300000, guid: 4ab3822e66ccd814397140c1c16f4373, type: 3}
+  - {fileID: 21300000, guid: c2c2765f899dd2e47abe7213fbed8136, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - flag-03
+  - flag-12
+  - flag-06
+  - flag-09
+  - flag-06_1
+  - Disk2pic1
+  - flag-01
+  - flag-10
+  - flag-14
+  - Disk3pic2
+  - flag-15
+  - flag-04
+  - Disk2pic2
+  - flag-02
+  - flag-05
+  - flag-16
+  - Disk3pic1
+  - flag-11
+  - flag-13
+  - Disk1Pic1
+  - flag-08
+  - Disk1Pic2
+  - flag-07
+  m_Tag: DiskFlag
+  m_IsVariant: 0

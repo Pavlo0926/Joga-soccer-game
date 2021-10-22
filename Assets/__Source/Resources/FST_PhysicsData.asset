@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bbc287e304db0c429ce16432f76b509, type: 3}
+  m_Name: FST_PhysicsData
+  m_EditorClassIdentifier: 
+  DiskMass: 1.7
+  DiskDrag: 0.225
+  DiskAngularDrag: 0.05
+  DiskMaxVelocity: 50
+  DiskMaxAngularVelocity: 90
+  DiskBounciness: 0.75
+  DiskStaticFriction: 0.05
+  DiskDynamicFriction: 0.1575
+  DiskCollisionDetectionMode: 2
+  DiskFrictionCombineMode: 0
+  DiskBounceCombineMode: 3
+  DiskStopThreshold_Velocity: 0.15
+  DiskStopThreshold_AngularVelocity: 0.5
+  DiskStopThreshold_Torque: 0.5
+  BallMaxVelocity: 60
+  BallMaxAngularVelocity: 50
+  BallMass: 0.5
+  BallDrag: 1.125
+  BallAngularDrag: 0.1
+  BallStaticFriction: 5000
+  BallDynamicFriction: 0.2
+  BallBounciness: 0.9
+  BallFrictionCombineMode: 0
+  BallBounceCombineMode: 0
+  BallStopThreshold_Velocity: 1.3
+  BallStopThreshold_AngularVelocity: 1.81
+  BallStopThreshold_Torque: 1.5
+  BallInCornerForceMultiplier: 1
+  DiskToDiskForceMultiplier: 1.25
+  DiskToBallForceMultiplier: 1.15
+  CurveShotActivationRange: 0.775
+  CurveShotForceMultiplier: 1.2
+  BorderStaticFriction: 0
+  BorderDynamicFriction: 0
+  BorderBounciness: 0.7
+  BorderFrictionCombineMode: 2
+  BorderBounceCombineMode: 3
+  BorderPhysMat: {fileID: 13400000, guid: dd01161d4798c9744b1b8987876b4dc4, type: 2}
+  GroundStaticFriction: 0.15
+  GroundDynamicFriction: 0.15
+  GroundBounciness: 0
+  GroundFrictionCombineMode: 0
+  GroundBounceCombineMode: 2
+  GroundPhysMat: {fileID: 13400000, guid: cb6fb3497e6667d4f85ff8a0ce4f5d1d, type: 2}
+  FieldBoundsBall: {x: 6.82, y: 14.65, z: -9.45, w: -14.65}
+  GoalMouthTopBall: 1.82
+  GoalMouthBottomBall: -4.43
+  LeftGoalNetBackBall: -16.706
+  RightGoalNetBackBall: 16.706
+  FieldBoundsDisk: {x: 6.32, y: 14.1, z: -8.9, w: -14.1}
+  GoalMouthTopDisk: 2.4
+  GoalMouthBottomDisk: -5.15
+  LeftGoalNetBackDisk: -16.18
+  RightGoalNetBackDisk: 16.18
+  HardDiskForce: 15
+  HardBallForce: 15
